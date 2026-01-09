@@ -1,0 +1,14 @@
+{
+     "compilerOptions": {
+       "target": "ES5",
+       "lib": ["ES2015", "DOM"],
+       "module": "commonjs",
+       "strict": true
+     }
+   }
+
+// target ES05 -> have Promise, async/ await
+// lib DOM ( Document Object Model ), ES2017 -> have types for DOM APIs and ES2017 features
+// module ESNext -> use latest module system
+// strict true -> enable all strict type-checking options
+   
