@@ -1,0 +1,12 @@
+{
+    "servers": {
+        "encore-mcp": {
+            "args": [
+                "mcp",
+                "run",
+                "--app=notes-4ua2"
+            ],
+            "command": "encore"
+        }
+    }
+}
